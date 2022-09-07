@@ -4,7 +4,7 @@ Intregrantes:
 <ul>
   <li>Camila</li>
   <li>Daniel</li>
-  <li>Jhon Sebastian </li>
+  <li>Johan Sebastian </li>
   <li>Samir</li>
   <li>Danilo</li>
 <ul>  
